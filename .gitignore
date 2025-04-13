@@ -4,3 +4,7 @@
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+
+# Datasets:
+/pizza_steak
+pizza_steak.zip
