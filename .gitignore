@@ -12,6 +12,8 @@ pizza_steak.zip
 10_food_classes_all_data.zip
 __MACOSX
 /practice/AAO_images
+10_food_classes_10_percent
+*.zip*
 
 # Models:
 *.h5*
