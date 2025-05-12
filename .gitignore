@@ -17,3 +17,6 @@ __MACOSX
 
 # Models:
 *.h5*
+
+# tensorflow_hub
+/tensorflow_hub
