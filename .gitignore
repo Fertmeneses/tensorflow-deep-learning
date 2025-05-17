@@ -10,6 +10,7 @@
 pizza_steak.zip
 /10_food_classes_all_data
 10_food_classes_all_data.zip
+/10_food_classes_1_percent
 __MACOSX
 /practice/AAO_images
 10_food_classes_10_percent
@@ -17,6 +18,8 @@ __MACOSX
 
 # Models:
 *.h5*
+*checkpoints_weights*
+/transfer_learning
 
 # tensorflow_hub
 /tensorflow_hub
