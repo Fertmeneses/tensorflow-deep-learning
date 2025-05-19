@@ -24,4 +24,4 @@ __MACOSX
 # tensorflow_hub
 /tensorflow_hub
 
-/__pycache__
+**__pycache__**
