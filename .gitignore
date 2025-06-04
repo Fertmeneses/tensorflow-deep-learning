@@ -16,6 +16,9 @@ __MACOSX
 10_food_classes_10_percent
 101_food_classes_10_percent
 *.zip*
+train.csv
+test.csv
+sample_submission.csv
 
 # Models:
 *.h5*
