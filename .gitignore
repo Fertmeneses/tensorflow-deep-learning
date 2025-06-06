@@ -19,6 +19,7 @@ __MACOSX
 train.csv
 test.csv
 sample_submission.csv
+pubmed-rct
 
 # Models:
 *.h5*
